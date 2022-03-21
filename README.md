@@ -21,3 +21,5 @@ A clean reimplementation of the ucsb-cs-github-linker using:
   - teams on linker that are not defined in GitHub are added to GitHub
   - initially this is just team names
 * Add ability to upload CSV roster to put students on teams, using student ids or student emails as keys
+* Update two way team sync to sync team memberships.
+
