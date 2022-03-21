@@ -23,3 +23,6 @@ A clean reimplementation of the ucsb-cs-github-linker using:
 * Add ability to upload CSV roster to put students on teams, using student ids or student emails as keys
 * Update two way team sync to sync team memberships.
 
+* Add local cache of repository info, and ability to sync with GitHub
+* Add ability to designate repos as "project repos".
+* Add ability to associate project repos with teams (not necessariy 1-to-1, but possibly many-to-many)
